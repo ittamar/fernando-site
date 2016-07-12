@@ -1,0 +1,67 @@
+
+/* h4{
+    position:relative;
+    right: 0%;
+    top:-39%;
+    font-family: "Times New Roman",Times,Serif;
+    font-style: italic;
+
+
+
+}
+ */
+
+#nav{
+    top: 31%;
+     font-family: "Times New Roman",Times,Serif;
+    font-style: italic;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    /* flex: 1 0 auto; */
+}
+main {
+    flex: 1 0 auto;
+}
+footer{
+     font-family: "Times New Roman",Times,Serif;
+    font-style: italic;
+}
+.slides{
+  position: relative;
+  left: 20%;
+  top: 8%;
+  }
+div.slides{
+ border: 5% solid #ccc;
+}
+div.slides:hover{
+  border: 5% solid #777;
+
+}
+.logo{
+  position: absolute;
+  left: 49%;
+top: 8%;
+ }
+h4{
+  position: absolute;
+  top: 105%;
+  left: 20%;
+  font-family: "Times New Roman",Times,Serif;
+    font-style: italic;
+
+}
+.slides{
+  border-radius: 3%; /* Imagens arredondados
+
+  */
+}
+
+
+
+
+
+
